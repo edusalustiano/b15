@@ -1,0 +1,22 @@
+.hidden{
+    display: none;
+}
+
+body{
+    background-color: black;
+    image-orientation: from-image;
+}
+nav{
+    background-color: rgb(239, 11, 11);
+}
+h1{
+    color: rgb(240, 14, 14);
+
+}
+h3{
+    background-color: aqua;
+}
+
+#cinema{
+    display: none;
+}
