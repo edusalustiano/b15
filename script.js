@@ -28,43 +28,67 @@ function bta(){
 
 function bte(){
     document.getElementById("demo").src="videos/caçando ava bravo.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function bti(){
     document.getElementById("demo").src="videos/corpo fechado.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 function bto(){
     document.getElementById("demo").src="videos/filme_blood.mp4" ;  
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function btu(){
     document.getElementById("demo").src="videos/retorno a base.mp4" ;
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function btb(){
     document.getElementById("demo").src="videos/verções de um crime.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function btc(){
     document.getElementById("demo").src="videos/video_sin_sity.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function btd(){
     document.getElementById("demo").src="videos/Revolta.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function bt1(){
-    document.getElementById("demo").src="videos/até a morte.mp4";
-}
+    document.getElementById("demo").src="https://video-private-assets.canva.com/VAFMHB6mbEg/v/1f27dc08bf.mp4?exp=1663118580000&cf-ck=Pg5wuf_wPd5y3Hx13ocAQqwVZD0NCf4-dR_RlKFmIto&cf-sig=ukbcsT700Oxljg6bsfInNnrNjishtQSuEBQY6s2rojg&cf-sig-kid=CO7cCjZ_YiI=&sig=ke8H-XT19F5iwum1nkIIceI-5hMBes7JXo11i2m52rk&sig-kid=GzFgFdhXD-Q=";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
+
+}    
+
 
 function bt2(){
     document.getElementById("demo").src="videos/código imperador.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function bt3(){
     document.getElementById("demo").src="videos/sequestro.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
 
 function bt4(){
     document.getElementById("demo").src="videos/fera.mp4";
+    document.getElementById('ma').style.display = "none";
+     document.getElementById('cinema').style.display = "block";
 }
