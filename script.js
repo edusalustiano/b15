@@ -19,7 +19,7 @@ function mostra(id){
 }
 function bta(){
 
-     document.getElementById("demo").src="a vingaça de scar.mp4";
+     document.getElementById("demo").src="https://video-private-assets.canva.com/VAFMG2V94IQ/v/91c3df4ddd.mp4?exp=1663114560000&cf-ck=i7-_UZjIvhQb8TDPZQmwA1Mqhnakrw20Q4Q3PalCLnU&cf-sig=Os820VP2l_T2QxkqaYSmLbAZDTHEHPg5_OPoRvW_zEk&cf-sig-kid=CO7cCjZ_YiI=&sig=8r0yBunQhUdpUFSlaMbZ-HQitaN5x5D5bLu84WXHoJ0&sig-kid=GzFgFdhXD-Q=";
      document.getElementById('ma').style.display = "none";
      document.getElementById('cinema').style.display = "block";
 
