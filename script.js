@@ -1,13 +1,14 @@
-function mostra(id){
+function mostra1(){
  
    
+    
 
-    if(document.getElementById(id).style.display == "block"){
+    if(document.getElementById('ma').style.display == "block"){
 
-        document.getElementById(id).style.display = "none";
+        document.getElementById('ma').style.display = "none";
 
 
-    }else{document.getElementById(id).style.display = "block";
+    }else{document.getElementById('ma').style.display = "block";
 
     }if(document.getElementById('ma').style.display === "block"){
         document.getElementById('cinema').style.display = "none";
@@ -33,18 +34,18 @@ function bte(){
 }
 
 function bti(){
-    document.getElementById("demo").src="videos/corpo fechado.mp4";
+    document.getElementById("demo").src="vhttps://video-private-assets.canva.com/VAFMH6Tp4yo/v/225cb514da.mp4?exp=1663134060000&cf-ck=2esa_Bh-aZu6pNJaNygXQ3VuWXSuSl_-58GPun72QQE&cf-sig=Q3cCPaaLTOUUM1wjlnVVrN4i6jwCG_gmuK0SQz0r4To&cf-sig-kid=CO7cCjZ_YiI=&sig=VF9wbiFh7zDPESMBNo4M2hAa4g9mrH3bIJx10pevKlg&sig-kid=GzFgFdhXD-Q=";
     document.getElementById('ma').style.display = "none";
      document.getElementById('cinema').style.display = "block";
 }
 function bto(){
-    document.getElementById("demo").src="videos/filme_blood.mp4" ;  
+    document.getElementById("demo").src="https://video-private-assets.canva.com/VAFMIHhnfXI/v/ae210044cb.mp4?exp=1663131960000&cf-ck=WJIdZodliWljDw0fl0VEqKwFBUGLWNmaB6mfe0OqU_M&cf-sig=ywcgZh4tWSazJa53JGKCUlcogLk20WwIz1a0QdZ4BRU&cf-sig-kid=CO7cCjZ_YiI=&sig=K9BiCiA6nOwVi_84lqHipYi14r7bZNGxI_n-IZX_Xic&sig-kid=GzFgFdhXD-Q=" ;  
     document.getElementById('ma').style.display = "none";
      document.getElementById('cinema').style.display = "block";
 }
 
 function btu(){
-    document.getElementById("demo").src="videos/retorno a base.mp4" ;
+    document.getElementById("demo").src="https://video-private-assets.canva.com/VAFMIe4vZU8/v/287b1c05e0.mp4?exp=1663137480000&cf-ck=Yj2Oz8L05JyH7r4Pptz_N3sEh6sthyG65HlaFiVpICc&cf-sig=2sYM500R2bVBkaE5iUIj_q5rrNJak_hhpKLGyyzXlCk&cf-sig-kid=CO7cCjZ_YiI=&sig=rO1KOBMe-9k3vXfeKEPl1aR4nVgKOOfgRVzinjRhI0M&sig-kid=GzFgFdhXD-Q=" ;
     document.getElementById('ma').style.display = "none";
      document.getElementById('cinema').style.display = "block";
 }
@@ -76,7 +77,7 @@ function bt1(){
 
 
 function bt2(){
-    document.getElementById("demo").src="videos/código imperador.mp4";
+    document.getElementById("demo").src="https://video-private-assets.canva.com/VAFMHTsuPzc/v/bc34a37fb7.mp4?exp=1663121280000&cf-ck=sB8i1LvoVu9OdXYVhfqtW7IdPDIRSTkMFCmQGJrPG-0&cf-sig=tEnVu5LXJWdZRKq_jtkWbk0QajWY27Wcw7Wn--n5qlU&cf-sig-kid=CO7cCjZ_YiI=&sig=6SA6ARpZeHpwskktWVQVh5esPlHcy21VGqKcwMEFZIo&sig-kid=GzFgFdhXD-Q=";
     document.getElementById('ma').style.display = "none";
      document.getElementById('cinema').style.display = "block";
 }
