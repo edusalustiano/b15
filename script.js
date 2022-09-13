@@ -27,7 +27,7 @@ function bta(){
     
 
 function bte(){
-    document.getElementById("demo").src="videos/caçando ava bravo.mp4";
+    document.getElementById("demo").src="https://video-private-assets.canva.com/VAFMHfawLBg/v/4b92221a5e.mp4?exp=1663122240000&cf-ck=Behzlu9KlQABVQkU0exaB6FVt8M72BUvoCZ8SBVWUFE&cf-sig=cGIrtrblwbr2CRZOVq6SSQaU0HB6YqckoNWr-DWuQow&cf-sig-kid=CO7cCjZ_YiI=&sig=hmHk7dwyCklUJC0Za6thPqDQJ4tC3rN6fXkjjkdh13M&sig-kid=GzFgFdhXD-Q=";
     document.getElementById('ma').style.display = "none";
      document.getElementById('cinema').style.display = "block";
 }
