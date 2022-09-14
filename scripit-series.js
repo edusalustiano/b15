@@ -1,14 +1,17 @@
-function mostra2(){
- 
-    if(document.getElementById('mb').style.display == "none"){
 
-        document.getElementById('mb').style.display = "black";
-        document.getElementById('ma').style.display = "none";
+   
+function mostra3(){ 
 
-    }else{document.getElementById('mb').style.display = "none";
     
+    if(document.getElementById('series').style.display == "block"){
 
-    }if(document.getElementById('mb').style.display === "block"){
+        document.getElementById('series').style.display = "none";
+       
+
+    }else{document.getElementById('series').style.display = "block";
+            document.getElementById('filmes').style.display = "none";
+
+    }if(document.getElementById('series').style.display === "block"){
         document.getElementById('cinema').style.display = "none";
         document.getElementById("demo").src="";
       }else{

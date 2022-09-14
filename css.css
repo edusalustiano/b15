@@ -1,3 +1,11 @@
+.headdem{
+    display:none;
+}
+.play{
+    display: block;
+}
+
+
 
 body{
     background-color: black;
@@ -17,6 +25,11 @@ h3{
 #cinema{
     display: none;
 }
-h5{
+.centro{
     background-color: aqua;
+    width: 300px;
+    height: 300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
